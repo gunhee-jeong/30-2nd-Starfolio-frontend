@@ -44,7 +44,7 @@
       박철진 
         - Header 컴포넌트, Footer 컴포넌트, main 페이지, 숙소 Detail 페이지
       
-      정건희 : [https://github.com/gunhee-jeong](https://github.com/gunhee-jeong)  
+      정건희 : [https://github.com/xunxee](https://github.com/xunxee)  
         - 초기세팅, 로고제작, 행성 List 페이지  
       
       유강호 
