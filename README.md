@@ -36,7 +36,7 @@
     * 카카오 엑세스 토큰을 받아 유저를 확인하고 유저 정보를 암호화하여 db에 저장하고 jwt 토큰 발행
     * request.header에 담긴 토큰을 이용하여 로그인 여부 확인
   
-  * 행성 List API
+  * 행성 List
     * 선택한 은하계, 테마, 검색, 인원수, 최소가격, 최대가격에 따라 행성을 불러오는 필터링기능 구현  
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/87808288/160289167-b0c9bbc4-8a12-45bd-b716-774a42f8fe53.gif)  
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/87808288/160289229-0d57b38a-acad-413a-b83a-977fea62c3f8.gif)
